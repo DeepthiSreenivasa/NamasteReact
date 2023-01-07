@@ -1,0 +1,23 @@
+.header{
+    border:2px solid blue;
+    padding:10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header ul{
+    list-style-type: none;
+    display: flex;
+}
+
+ul > li {
+    padding: 10px;
+}
+
+.restuarant-cards{
+float: left;
+border: 2px solid green;
+padding: 10px;
+margin: 10px;
+}
+
